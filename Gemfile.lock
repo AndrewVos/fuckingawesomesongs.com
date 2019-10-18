@@ -7,7 +7,7 @@ GEM
       multi_xml
     minitest (2.11.1)
     multi_json (1.0.4)
-    multi_xml (0.4.1)
+    multi_xml (0.6.0)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
